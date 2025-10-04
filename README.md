@@ -1,18 +1,22 @@
 # Deco.Art Balloons
 
-Strona internetowa dla Deco.Art Balloons z pastelowym, responsywnym designem.
+Strona internetowa **Deco.Art Balloons** z pastelowym i responsywnym designem.
 
-## Funkcje
-- Responsywny layout
-- Pastelowe kolory
-- Sekcje: Hero, Usługi, Galeria, Kontakt
-- Formularz kontaktowy (front-end)
+## Opis projektu
+Projekt prezentuje stronę dla Deco.Art Balloons z następującymi sekcjami:
+- Hero / nagłówek powitalny  
+- Usługi  
+- Galeria zdjęć  
+- Kontakt z formularzem  
+
+Strona jest responsywna i dostosowuje się do różnych rozdzielczości ekranów.
 
 ## Technologie
-- HTML
-- CSS (style.css)
+- HTML  
+- CSS (plik `style.css`)  
+- Grafiki w folderze `images/`  
 
 ## Jak uruchomić
-1. Sklonuj repozytorium:
+1. Sklonuj repozytorium:  
    ```bash
    git clone https://github.com/TWOJ_UZYTKOWNIK/deco-art-balloons.git
